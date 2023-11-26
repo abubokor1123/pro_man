@@ -1,0 +1,124 @@
+@media(max-width:1399px){
+    /* .hero_content h1{
+        font-size: 30px ;
+        color: #787878;
+    } */
+    
+}
+@media(max-width:1199px){
+    .card {
+        padding: 25px;
+    }
+    .random_icon {
+        top: 28%;
+    }
+    .address h3 {
+        font-size: 26px;
+    }
+    .working_experince h3{
+        font-size: 19px;
+    }
+    .year h1 {
+        font-size: 100px;
+    }
+    .year h5 {
+        font-size: 16px;
+        letter-spacing: 20px;
+    }
+    .nav-link {
+        font-size: 14px;
+        margin: 0;
+    }
+    .navbar-brand h1{
+        font-size: 30px;
+        padding: 16px 30px;
+    }
+    .hero_content h1{
+        font-size: 60px;
+    }
+    .hero_botton .hero_bottom {
+        padding: 12px 23px;
+    }
+
+}
+
+@media(max-width:991px){
+    .hero_botton .hero_bottom {
+        padding: 12px 20px;
+    }
+    .waves {
+        right: 55px;
+        height: 110px;
+        width: 110px;
+        bottom: -30px;
+    }
+    .video-main h5 {
+        margin-left: 14px;
+        font-size: 14px;
+    }
+    /* .wrapper {
+        bottom: 40px;
+        left: 180px;
+    } */
+    .hero_content h1 {
+        font-size: 45px;
+    }
+    .hero_content h2 {
+        font-size: 30px;
+    }
+    .year h5 {
+        font-size: 22px;
+        letter-spacing: 25px;
+    }
+    .working_experince h3 {
+        font-size: 25px;
+    }
+    .about_image img {
+        margin-top: 50px;
+    }
+    .experience h1 {
+        font-size: 30px;
+    }
+    .my_skill h3 {
+        font-size: 25px;
+    }
+    .service_header h1 {
+        font-size: 40px;
+    }
+    .card{
+        padding: 10px;
+    }
+    .card_content p {
+        font-size: 14px;
+    }
+    .card_content h4 {
+        font-size: 20px;
+    }
+    .card_content h6 {
+        padding: 10px 0;
+    }
+    .random_icon a i {
+        font-size: 25px;
+    }
+    .random_icon {
+        top: 35%;
+    }
+    .service_header a {
+        padding: 15px 40px;
+    }
+    .project_header h1{
+        font-size: 40px;
+    }
+    .address h3 {
+        font-size: 16px;
+    }
+    .contact_form p {
+        font-size: 14px;
+    }
+
+}
+
+@media(max-width:767px){
+    
+
+}
